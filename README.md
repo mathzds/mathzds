@@ -1,8 +1,6 @@
-<div style="display: flex; align-items: center; justify-content: center; flex-direction: row; height: 100vh;">
-  <div>
+<div style="display: flex; align-items: center; justify-content: center; height: 100vh; text-align: center;">
+  <div style="display: flex; align-items: center;">
     <img style="margin-right: 20px;" src="https://i.imgur.com/eAXqAFy.gif" />
-  </div>
-  <div>
-    <p style="margin-left: 10px;">Only Another Backend Developer</p>
+    <p>Only Another Backend Developer</p>
   </div>
 </div>
